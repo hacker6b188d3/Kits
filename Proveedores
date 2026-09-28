@@ -1,0 +1,7 @@
+proveedores = {
+  "A": {"precio":90, "entrega":4},
+  "B": {"precio":110, "entrega":6},
+  "C": {"precio":100, "entrega":7}
+}
+for n,d in proveedores.items():
+  print(f"{n}: Total ${d['precio']*120} - Entrega {d['entrega']} dias")
