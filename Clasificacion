@@ -1,0 +1,5 @@
+# Reportes del evento
+# 1 Logistica, 2 Operacion, 3 Servicio
+print("Reporte 1 y 4 = Logistica (daño transporte)")
+print("Reporte 2,4,5 = Operacion (error preparacion)")
+print("Reporte 3,1,5 = Servicio (desconfianza)")
